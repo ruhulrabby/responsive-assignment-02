@@ -7,3 +7,32 @@ header img{
     width: 164px;
     height: 28px;
 }
+.hero{
+    background-color: #FFFBF0;
+    
+}
+.hero h1{
+    font-size: 5em;
+    font-family: 'Bebas Neue', cursive;
+
+}
+.hero p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+
+}
+.hero-text-color{
+    color: #fabe4c;
+}
+.button{
+    background-color: #9db63c;
+    padding: 1em;
+}
+
+.button p{
+    color: white;
+}
+
+.fa-icon{
+    font-size: 1em;
+}
